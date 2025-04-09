@@ -6,7 +6,7 @@ Desktop weather app. Contains:
 
 ## Screenshots
 ### Blank
-![Blank app](https://github.com/perigrins/emotions_recognition_final/blob/master/site.png](https://github.com/perigrins/WeatherApp/blob/master/blank.png)
+![Blank app](https://github.com/perigrins/WeatherApp/blob/master/blank.png)
 
 ### Full
-![Fullk app](https://github.com/perigrins/WeatherApp/blob/master/full.png)
+![Full app](https://github.com/perigrins/WeatherApp/blob/master/full.png)
